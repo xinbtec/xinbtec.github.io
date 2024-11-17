@@ -1,2 +1,3 @@
-*.sb3 linguist=language=Scratch
-*.html linguist=language=网页
+*.sb3 linguist-language=Scratch
+*.html linguist-language=网页
+*.js linguist-language=打包程序
